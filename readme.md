@@ -13,3 +13,4 @@ Para criar uma pasta = mkdir nomedapasta
 https://talent.capgemini.com/
 https://talent.capgemini.com/
 ADICIONANDO DADOS NO README.MD
+vamos que vamos
